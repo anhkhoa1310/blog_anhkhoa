@@ -28,7 +28,6 @@ Thêm các secrets sau:
 ```bash
 # Thêm tất cả thay đổi
 git add .
-
 # Commit với message mô tả
 git commit -m "Add auto-deploy configuration and Project ID"
 
